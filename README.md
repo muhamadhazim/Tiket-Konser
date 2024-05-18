@@ -1,5 +1,5 @@
 TIKET KONSER PROJECT TUGAS AKHIR UNIVERSITAS KOMPUTER INDONESIA SEMESTER 1
-Menu:
+\nMenu:
 1. Beli Tiket Konser
 2. Cek Stok Tiket
 3. Bayar Kode Pembayaran & Print Kode Tiket
